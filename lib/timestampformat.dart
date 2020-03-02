@@ -1,9 +1,9 @@
-library timestampformat;
+library flutter_timestampformat;
 
 class Language {
-  static String justNow = "just now";
-  static String yesterday = "yesterday";
-  static String today = "today";
+  static String justNow = "Just now";
+  static String yesterday = "Yesterday";
+  static String today = "Today";
   static String year = "year";
   static String month = "month";
   static String day = "day";
